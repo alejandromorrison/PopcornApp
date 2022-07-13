@@ -1,2 +1,3 @@
 # PopcornApp
-This is the final project for my presentation
+This is the final project to obtain the associate degree in computer science,
+in brookdale community college.
